@@ -9,7 +9,6 @@ import { StaticDataProvider } from "./StaticData/StaticData";
 
 // TODO this should be some other url
 const baseURL: string =
-  // "http://medieinstitutet-wie-products.azurewebsites.net/api/";
   "http://localhost:4000/api/";
 
 const App: React.FC = () => {
